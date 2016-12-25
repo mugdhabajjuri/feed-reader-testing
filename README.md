@@ -15,6 +15,6 @@ The following are the tests that are included:
 
 ## How to run the project
 
-* Download or clone the repo
-* Open it in your browser
+* Download or clone the repo locally
+* Open index.html file in your browser
 * Jasmine's spec failure and success comments are present at the bottom of the page.
